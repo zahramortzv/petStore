@@ -1,0 +1,30 @@
+/* ----------------------------- YekanBakh ----------------------------- */
+
+  @font-face {
+    font-family: "yekanBakh";
+    font-style: normal;
+    font-weight: 200;
+    src: url("../assets/fonts/YekanBakh-Regular.woff2") format("woff2");
+  }
+  
+  @font-face {
+    font-family: "yekanBakh";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../assets/fonts/YekanBakh-Light.woff2") format("woff2");
+  }
+  
+  @font-face {
+    font-family: "yekanBakh";
+    font-style: normal;
+    font-weight: 700;
+    src: url("../assets/fonts/YekanBakh-Bold.woff2") format("woff2");
+  }
+  
+  /* @font-face {
+    font-family: "yekanBakh";
+    font-style: normal;
+    font-weight: 700;
+    src: url("../assets/fonts/YekanBakh-Fat.woff2") format("woff2");
+  }
+   */
